@@ -7,13 +7,13 @@ San Francisco, CA 94107
 (928) 713-4786
 
 ---
-floatingrock@gmail.com
+[floatingrock@gmail.com][email]
 
-linkedin.com/in/stephane-dreyfus
+[linkedin.com/in/stephane-dreyfus][linkedin]
 
-stephanedreyfus.com
+[stephanedreyfus.com][personal]
 
-github.com/stephanedreyfus
+[github.com/stephanedreyfus][github]
 
 
 ## SKILLS				
@@ -60,6 +60,10 @@ and distributed module across dozens of partnered yoga schools.
 ##### San Francisco, Fullstack Software Development, January 2019 - May 2019
 * Joined 16 week coding bootcamp following passion to explore computer science; learned to build increasingly complex full stack web applications using many tools, such as RESTful APIs, React and React Redux, relational database schemas.
 ### [UC Santa Cruz](https://www.ucsc.edu/)
-Santa Cruz, Film/Video, September 1994 - May 1998
+##### Santa Cruz, Film/Video, September 1994 - May 1998
 
 [photo]:https://www.stephanedreyfus.com/img/stephaneheadshot.png
+[email]:floatingrock@gmail.com]
+[linkedin]:linkedin.com/in/stephane-dreyfus
+[personal]:stephanedreyfus.com
+[github]:github.com/stephanedreyfus
