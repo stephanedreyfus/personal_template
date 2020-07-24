@@ -32,6 +32,10 @@ SQL | Django | HTML5
 ` `| ` ` | Git
 
 ## EXPERIENCE
+### [Springboard](www.springboard.com)
+#### Teaching Assistant
+* Answer student technical questions on subjects ranging from simple DOM manipulation to complex database management via Flask and Node.js, as well as React.
+* Response time for initial question maintained at 30 minutes or less.
 ### [Triveni Yoga](www.triveniyoga.com)
 ##### Co-Founder, San Francisco, September 2013 - Present
 * Co-founded an international health and wellness company focusing on holistic yoga teaching, spiritual retreats, and motivational speaking; company touched over 15k+ students and sustained 52% revenue compound annual growth rate (CAGR) from 2014 to date.
