@@ -32,7 +32,6 @@
         "@fortawesome/fontawesome-free": "5.15.4",
         "axios": "^0.24.0",
         "bootstrap": "5.1.3",
-        "chmod": "^0.2.1",
         "chokidar": "^3.5.3",
         "fsevents": "^2.3.2",
         "jquery": "^3.6.0",
